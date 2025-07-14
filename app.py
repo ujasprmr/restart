@@ -6,7 +6,7 @@ import base64
 import os
 import google.generativeai as genai
 
-from google.genai import types
+ 
 
 
 def generate():
